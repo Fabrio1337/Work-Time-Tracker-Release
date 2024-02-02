@@ -1,0 +1,1 @@
+﻿INSERT INTO Sign (Name, Password) VALUES ('Fabrio','Daniil2006')
